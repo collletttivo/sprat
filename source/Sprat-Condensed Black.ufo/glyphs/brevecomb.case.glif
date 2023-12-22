@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.case" format="2">
+  <advance width="450"/>
+  <anchor x="225" y="590" name="_top"/>
+  <anchor x="225" y="809" name="top"/>
+  <outline>
+    <component base="brevecomb" yScale="0.8" xOffset="-79" yOffset="176" identifier="DAD0F92B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>DAD0F92B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

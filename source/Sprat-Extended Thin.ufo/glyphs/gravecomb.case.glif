@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.case" format="2">
+  <advance width="403"/>
+  <anchor x="202" y="560" name="_top"/>
+  <anchor x="202" y="765" name="top"/>
+  <outline>
+    <component base="gravecomb" xScale="0.9659" xyScale="0.2588" yScale="0.9659" yxScale="-0.2588" xOffset="-55" yOffset="-92" identifier="0330AF26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0330AF26</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

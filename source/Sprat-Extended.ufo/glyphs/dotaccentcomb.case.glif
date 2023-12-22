@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb.case" format="2">
+  <advance width="222"/>
+  <anchor x="111" y="500" name="_top"/>
+  <anchor x="111" y="703" name="top"/>
+  <outline>
+    <component base="dotaccentcomb" xOffset="-195" yOffset="29" identifier="5D46B383"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5D46B383</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="762"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="220" y="393" type="curve" smooth="yes"/>
+      <point x="220" y="700" type="line"/>
+      <point x="98" y="700" type="line"/>
+      <point x="89" y="622"/>
+      <point x="29" y="606"/>
+      <point x="3" y="606" type="curve"/>
+      <point x="3" y="585" type="line"/>
+      <point x="26" y="582"/>
+      <point x="52" y="587"/>
+      <point x="77" y="601" type="curve"/>
+      <point x="77" y="393" type="line" smooth="yes"/>
+      <point x="77" y="362"/>
+      <point x="51" y="362"/>
+      <point x="49" y="362" type="curve"/>
+      <point x="49" y="350" type="line"/>
+      <point x="248" y="350" type="line"/>
+      <point x="248" y="362" type="line"/>
+      <point x="244" y="362"/>
+      <point x="220" y="362"/>
+    </contour>
+    <contour>
+      <point x="690" y="43" type="curve" smooth="yes"/>
+      <point x="691" y="135" type="line"/>
+      <point x="735" y="135" type="line"/>
+      <point x="735" y="256" type="line"/>
+      <point x="723" y="256" type="line"/>
+      <point x="723" y="235"/>
+      <point x="664" y="230"/>
+      <point x="688" y="230" type="curve" smooth="yes"/>
+      <point x="691" y="230" type="line"/>
+      <point x="691" y="350" type="line"/>
+      <point x="548" y="350" type="line"/>
+      <point x="471" y="230" type="line"/>
+      <point x="471" y="135" type="line"/>
+      <point x="548" y="135" type="line"/>
+      <point x="548" y="43" type="line" smooth="yes"/>
+      <point x="548" y="12"/>
+      <point x="530" y="12"/>
+      <point x="527" y="12" type="curve"/>
+      <point x="527" y="0" type="line"/>
+      <point x="711" y="0" type="line"/>
+      <point x="711" y="12" type="line"/>
+      <point x="707" y="12"/>
+      <point x="690" y="12"/>
+    </contour>
+    <contour>
+      <point x="497" y="230" type="line"/>
+      <point x="548" y="312" type="line"/>
+      <point x="548" y="230" type="line"/>
+    </contour>
+    <component base="fraction" xOffset="134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>weight</key>
+        <integer>60</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>one</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>four</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>onequarter</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

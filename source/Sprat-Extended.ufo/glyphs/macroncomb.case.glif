@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb.case" format="2">
+  <advance width="530"/>
+  <anchor x="265" y="700" name="_top"/>
+  <anchor x="265" y="780" name="top"/>
+  <outline>
+    <component base="macroncomb" xOffset="-92" yOffset="88" identifier="9BDB58C9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9BDB58C9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

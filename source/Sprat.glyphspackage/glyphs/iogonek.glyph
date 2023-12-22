@@ -1,0 +1,118 @@
+{
+glyphname = iogonek;
+layers = (
+{
+layerId = "ECEC25EE-2268-427F-924A-A8A033D1E43A";
+shapes = (
+{
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (-176,49);
+ref = dotaccentcomb;
+},
+{
+pos = (-137,18);
+ref = ogonekcomb;
+}
+);
+width = 263;
+},
+{
+layerId = "B6803316-6B37-45A2-910F-F0CA711B465A";
+shapes = (
+{
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (-256,-51);
+ref = dotaccentcomb;
+scale = (1.1596,1.1596);
+},
+{
+pos = (-120,7);
+ref = ogonekcomb;
+}
+);
+width = 310;
+},
+{
+layerId = "52EA2D2A-A4E3-47AA-B963-53B6A9E26FA1";
+shapes = (
+{
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (-319,-237);
+ref = dotaccentcomb;
+scale = (1.6394,1.4656);
+},
+{
+pos = (-76,6);
+ref = ogonekcomb;
+}
+);
+width = 362;
+},
+{
+layerId = "C70D92E6-6044-4AAB-ADF3-B84826DC9CB7";
+shapes = (
+{
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (-123,40);
+ref = dotaccentcomb;
+},
+{
+pos = (-36,13);
+ref = ogonekcomb;
+}
+);
+width = 440;
+},
+{
+layerId = "1127FDDC-7967-4E0A-BDB2-81E1CCE90981";
+shapes = (
+{
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (-144,-118);
+ref = dotaccentcomb;
+scale = (1.2525,1.2525);
+},
+{
+pos = (17,-8);
+ref = ogonekcomb;
+}
+);
+width = 478;
+},
+{
+layerId = "92782D03-6C32-4A0E-AEF4-B0D65DFAA275";
+shapes = (
+{
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (-408,-503);
+ref = dotaccentcomb;
+scale = (1.9332,1.9048);
+},
+{
+pos = (62,-10);
+ref = ogonekcomb;
+}
+);
+width = 598;
+}
+);
+unicode = 303;
+}

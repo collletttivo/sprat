@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <advance width="600"/>
+  <unicode hex="0312"/>
+  <anchor x="320" y="500" name="_top"/>
+  <anchor x="320" y="855" name="top"/>
+  <outline>
+    <contour>
+      <point x="341" y="855" type="line"/>
+      <point x="256" y="805"/>
+      <point x="225" y="753"/>
+      <point x="225" y="663" type="curve" smooth="yes"/>
+      <point x="225" y="625"/>
+      <point x="232" y="541"/>
+      <point x="322" y="541" type="curve" smooth="yes"/>
+      <point x="377" y="541"/>
+      <point x="414" y="575"/>
+      <point x="414" y="617" type="curve" smooth="yes"/>
+      <point x="414" y="658"/>
+      <point x="385" y="687"/>
+      <point x="331" y="687" type="curve" smooth="yes"/>
+      <point x="312" y="687"/>
+      <point x="285" y="683"/>
+      <point x="263" y="665" type="curve"/>
+      <point x="244" y="730"/>
+      <point x="293" y="808"/>
+      <point x="353" y="838" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <advance width="333"/>
+  <anchor x="172" y="570" name="_top"/>
+  <anchor x="172" y="695" name="top"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="-125" yOffset="45" identifier="F6E5FBA2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>F6E5FBA2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

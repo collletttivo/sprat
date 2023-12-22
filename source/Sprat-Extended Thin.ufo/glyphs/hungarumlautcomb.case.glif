@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.case" format="2">
+  <advance width="611"/>
+  <anchor x="276" y="500" name="_top"/>
+  <anchor x="306" y="748" name="top"/>
+  <outline>
+    <component base="hungarumlautcomb" yOffset="-17" identifier="BE930C74"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BE930C74</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

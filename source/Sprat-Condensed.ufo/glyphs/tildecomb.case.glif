@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.case" format="2">
+  <advance width="372"/>
+  <anchor x="186" y="595" name="_top"/>
+  <anchor x="186" y="782" name="top"/>
+  <outline>
+    <component base="tildecomb" xOffset="-124" yOffset="82" identifier="A4C6C83B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A4C6C83B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

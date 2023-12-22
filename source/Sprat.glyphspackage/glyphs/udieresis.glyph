@@ -1,0 +1,84 @@
+{
+glyphname = udieresis;
+layers = (
+{
+layerId = "ECEC25EE-2268-427F-924A-A8A033D1E43A";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (-13,0);
+ref = dieresiscomb;
+}
+);
+width = 594;
+},
+{
+layerId = "B6803316-6B37-45A2-910F-F0CA711B465A";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (4,0);
+ref = dieresiscomb;
+}
+);
+width = 532;
+},
+{
+layerId = "52EA2D2A-A4E3-47AA-B963-53B6A9E26FA1";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (30,0);
+ref = dieresiscomb;
+}
+);
+width = 662;
+},
+{
+layerId = "C70D92E6-6044-4AAB-ADF3-B84826DC9CB7";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (71,0);
+ref = dieresiscomb;
+}
+);
+width = 1147;
+},
+{
+layerId = "1127FDDC-7967-4E0A-BDB2-81E1CCE90981";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (72,0);
+ref = dieresiscomb;
+}
+);
+width = 1131;
+},
+{
+layerId = "92782D03-6C32-4A0E-AEF4-B0D65DFAA275";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (129,0);
+ref = dieresiscomb;
+}
+);
+width = 1183;
+}
+);
+unicode = 252;
+}

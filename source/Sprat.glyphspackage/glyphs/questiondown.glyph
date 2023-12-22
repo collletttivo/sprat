@@ -1,0 +1,72 @@
+{
+glyphname = questiondown;
+layers = (
+{
+layerId = "B6803316-6B37-45A2-910F-F0CA711B465A";
+shapes = (
+{
+angle = 180;
+pos = (516,514);
+ref = question;
+}
+);
+width = 515;
+},
+{
+layerId = "1127FDDC-7967-4E0A-BDB2-81E1CCE90981";
+shapes = (
+{
+angle = 180;
+pos = (1056,515);
+ref = question;
+}
+);
+width = 1056;
+},
+{
+layerId = "52EA2D2A-A4E3-47AA-B963-53B6A9E26FA1";
+shapes = (
+{
+angle = 180;
+pos = (563,514);
+ref = question;
+}
+);
+width = 569;
+},
+{
+layerId = "ECEC25EE-2268-427F-924A-A8A033D1E43A";
+shapes = (
+{
+angle = 180;
+pos = (528,514);
+ref = question;
+}
+);
+width = 508;
+},
+{
+layerId = "92782D03-6C32-4A0E-AEF4-B0D65DFAA275";
+shapes = (
+{
+angle = 180;
+pos = (996,515);
+ref = question;
+}
+);
+width = 1009;
+},
+{
+layerId = "C70D92E6-6044-4AAB-ADF3-B84826DC9CB7";
+shapes = (
+{
+angle = 180;
+pos = (1030,515);
+ref = question;
+}
+);
+width = 1065;
+}
+);
+unicode = 191;
+}

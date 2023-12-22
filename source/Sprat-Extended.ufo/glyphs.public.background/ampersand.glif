@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ampersand" format="2">
+  <advance width="1199"/>
+  <outline>
+    <contour>
+      <point x="80" y="207" type="move"/>
+    </contour>
+  </outline>
+</glyph>

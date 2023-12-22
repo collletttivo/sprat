@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
+  <advance width="423"/>
+  <anchor x="212" y="560" name="_top"/>
+  <anchor x="212" y="787" name="top"/>
+  <outline>
+    <component base="acutecomb" xScale="0.9659" xyScale="-0.2588" yScale="0.9659" yxScale="0.2588" xOffset="-423" yOffset="148" identifier="87A9CF67"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>87A9CF67</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,84 @@
+{
+glyphname = Racute;
+layers = (
+{
+layerId = "ECEC25EE-2268-427F-924A-A8A033D1E43A";
+shapes = (
+{
+ref = R;
+},
+{
+pos = (162,140);
+ref = acutecomb.case;
+}
+);
+width = 623;
+},
+{
+layerId = "B6803316-6B37-45A2-910F-F0CA711B465A";
+shapes = (
+{
+ref = R;
+},
+{
+pos = (146,180);
+ref = acutecomb.case;
+}
+);
+width = 599;
+},
+{
+layerId = "52EA2D2A-A4E3-47AA-B963-53B6A9E26FA1";
+shapes = (
+{
+ref = R;
+},
+{
+pos = (192,130);
+ref = acutecomb.case;
+}
+);
+width = 704;
+},
+{
+layerId = "C70D92E6-6044-4AAB-ADF3-B84826DC9CB7";
+shapes = (
+{
+ref = R;
+},
+{
+pos = (379,140);
+ref = acutecomb.case;
+}
+);
+width = 1161;
+},
+{
+layerId = "1127FDDC-7967-4E0A-BDB2-81E1CCE90981";
+shapes = (
+{
+ref = R;
+},
+{
+pos = (375,150);
+ref = acutecomb.case;
+}
+);
+width = 1167;
+},
+{
+layerId = "92782D03-6C32-4A0E-AEF4-B0D65DFAA275";
+shapes = (
+{
+ref = R;
+},
+{
+pos = (357,140);
+ref = acutecomb.case;
+}
+);
+width = 1137;
+}
+);
+unicode = 340;
+}

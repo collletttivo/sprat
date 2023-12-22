@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.case" format="2">
+  <advance width="256"/>
+  <anchor x="128" y="570" name="_top"/>
+  <anchor x="128" y="799" name="top"/>
+  <outline>
+    <component base="ringcomb" xOffset="-135" yOffset="46" identifier="90D7467E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>90D7467E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
